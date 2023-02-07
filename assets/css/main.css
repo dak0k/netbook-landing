@@ -131,3 +131,59 @@ header>section.container{
     border-color: #217bf4;
     line-height: 14px;
 }
+.aboutus{
+    padding-top: 124px;
+    padding-bottom: 42px;
+    
+}
+.aboutus_text{
+    flex-basis: 406px;
+}
+.aboutus span{
+    line-height: 18px;
+    font-size: 18px;
+    color: #217bf4;
+    font-weight: 500;
+}
+.aboutus_p-1{
+    margin-top: 10px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #0a093d;
+}
+.aboutus_p-2{
+   
+    color: #656464;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+.sub{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin: 16px 0;
+    
+}
+.sub-text{
+    font-weight: 500 !important;
+    font-size: 17px;
+    line-height: 18px;
+}
+.aboutus-img{
+   
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.first-img-aboutus{
+    border-radius: 18px;
+    gap: 25px;
+}
+.img-sub{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
